@@ -1,0 +1,37 @@
+body {
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.title {
+    margin-top: 0;
+    box-shadow: 5px 5px 5px grey;
+    background-color: hotpink;
+    color: indigo;
+    font-weight: bold;
+    padding: 20px;
+    
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.div {
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px lightgreen;
+    background-color: honeydew;
+    float: none;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+.style {
+    font-size: 20px;
+    background-color: khaki;
+    color: blueviolet;
+}
+.div2 {
+    color: indigo;
+    font-size: large;
+    background-color: lightsalmon;
+    float: none;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-shadow: 5px 5px 5px rgb(255, 209, 3);
+}
